@@ -6,3 +6,8 @@ body{
  text-align: center;
  background-color: black;
 }
+h2{
+ color: aliceblue;
+ text-transform: uppercase;
+ text-decoration: solid;
+}
